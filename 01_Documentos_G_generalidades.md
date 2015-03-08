@@ -59,3 +59,7 @@ Otro uso puntual pero quizás interesante es ubicar lugares en los que se hacen 
 #### Google Groups
 
 Hace tiempo los usé, actualmente debería ponerme un poco al día. Pero pueden ser interesantes para compartir documentos con un grupo en vez de hacerlo con usuarios individuales. Además ofrece herramientas tipo foros. 
+
+## Propuesta de actividades
+1.
+2.
