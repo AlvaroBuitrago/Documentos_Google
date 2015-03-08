@@ -86,3 +86,5 @@ Para generar el código HTML que permite incrustar el formulario en una página 
 
 ## Propuesta de actividades
 
+1. Explora los enlaces anteriores y trata de responder a los formularios con y sin iniciar sesión con tu cuenta de Google. Observa el comportamiento. 
+2. Crea un breve formulario de prueba de Google Forms y compártelo en el foro del grupo de trabajo para comentar el comportamiento. 
