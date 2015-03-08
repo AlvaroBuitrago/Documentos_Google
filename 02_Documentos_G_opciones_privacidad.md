@@ -47,7 +47,3 @@ Ejemplo de documentos con diferentes opciones de privacidad: *(Son tres copias d
 ## Propuesta de actividades
 1. Visita los enlaces anteriores y comprueba el funcionamiento de los documentos compartidos
 2. Crea tres breves documentos de texto con Google Docs y asigna las diferentes opciones de privacidad. Luego compártelos mediante la publicación de los enlaces en una entrada del foro para comentar el comportamiento de los mismos. 
-
-
-
-
