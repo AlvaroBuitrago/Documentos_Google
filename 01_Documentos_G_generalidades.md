@@ -1,5 +1,7 @@
 # Documentos colectivos con Google Docs
 
+![Google Docs](Google_drive.jpg)
+
 ## [El entorno Google](http://es.wikipedia.org/wiki/Google_Apps)
 
 Google provee de un conjunto de aplicaciones y entornos, teóricamente gratuitos (se paga en pérdida de privacidad), que posibilitan el trabajo en grupo. Además de Google hay otros entornos pero en lo básico coinciden. Se trata de editores de texto con interface donde lo más importante son las opciones para compartir documentos o publicarlos en red.
