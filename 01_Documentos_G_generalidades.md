@@ -1,5 +1,7 @@
 # Documentos colectivos con Google Docs
 
+![Google Docs](Google_drive.jpg)
+
 ![Google_docs](Google_drive.jpg)
 
 ## [El entorno Google](http://es.wikipedia.org/wiki/Google_Apps)
