@@ -1,4 +1,4 @@
-# Documentos colectivos con Google Docs 1
+# Documentos colectivos con Google Docs
 
 ![Google_docs](Google_drive.jpg)
 
