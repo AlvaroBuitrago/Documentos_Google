@@ -1,5 +1,9 @@
 # Documentos colectivos con Google Docs
 
+Mediante markdown y pandoc hemos visto maneras de compartir y editar documentos de texto. En algunas ocasiones puede ser útil compartir o editar de manera colectiva otro tipo de documentos como hojas de cálculo o formularios. Entornos como Google Docs y el disco virtual Google Drive amplian el formato de documentos que se pueden compartir o editar en grupo. 
+
+Google Docs trabaja con un entorno gráfico algo que, aunque puede parecer una ventaja no lo es tanto. Google suele cambiar muy a menudo los interfaces, los lugares en los que están los botones, las opciones avanzadas, etc. Con un editor de comandos los inicios son más asperos, pero siempre tienes el control de lo que haces, no ocurre lo mismo con las interfaces gráficas.
+
 ![Google Docs](Google_drive.jpg)
 
 ## [El entorno Google](http://es.wikipedia.org/wiki/Google_Apps)
