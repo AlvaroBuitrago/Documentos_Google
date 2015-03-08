@@ -1,4 +1,4 @@
-# Documentos de texto u hojas de cálculo
+# Documentos de texto y hojas de cálculo en Google
 
 El funcionamiento del editor de texto de Google Docs es muy parecido al de otros editores de texto WYSIWYG (Lo que ves es lo que obtienes), así que no parece necesario entrar en detalles sobre la edición en particular. En caso de dudas se pueden tratar en el foro del grupo de trabajo. 
 
@@ -44,25 +44,9 @@ Ejemplo de documentos con diferentes opciones de privacidad: *(Son tres copias d
 - **Puede comentar**: Pulsando [este enlace](https://docs.google.com/document/d/1F1G0XiM3jxvrbuVx8a_0FPVVPRTgFFD86jmVGr9hY78/edit?usp=sharing)
 - **Puede editar**: Pulsado [este enlace](https://docs.google.com/document/d/1jNLbicT8B3_zOT0NyqK9Sgn5_SCBMNEROdpf4JH4AqU/edit?usp=sharing)
 
-## Incrustar (publicar en la web) un documento Google
-
-Una opción interesante de Google Docs es la posibilidad de incrustar (embeber o añadir como elemento visual) en una página web o un blog. Así los destinatarios de la lectura del documento no tendrán que acceder al enlace. Podemos publicarlo en un blog (por ejemplo en una entrada del Campus Virtual) y que quienes lean la entrada del blog lean allí el documento, puedan comentarlo o modificarlo según las opciones de privacidad establecidas. 
-
-Para obtener el código HTML que incluir en nuestra página web o entrada del blog tenemos que ir al menú **Archivo>Publicar en la Web** 
-
-![Incrustar1](Docs_incrustar_01.png)
-
-IMPORTANTE: Primero tendremos que pulsar en el botón **Publicar** para dar permiso a que el documento aparezca en la web *(si más tarde decidimos no mantener la publicación de este documento en páginas web o blogs solo hay que pulsar en **Detener publicación**)* Después seleccionamos la opción **Incrustar** que nos mostrará el código HTML a copiar y pegar en la página.
-
-Por defecto aparece activada la opción **Volver a publicar automáticamente cuando se realicen cambios** Esto quiere decir que cada cambio posterior al documento aparecerá en la versión web. Si queremos mantener la versión antigua del documento como publicada debemos desactivar esto y volver a publicarlo manualmente cuando lo deseemos o cuando consideremos acabados los cambios. 
-
-### Chapuza de Google con el tamaño
-
-Nadie sabe muy bien la razón, pero el código que genera Google no permite determinar el tamaño del marco en el que se incrusta el documento. Así que tendremos que <u>añadirlo manualmente antes del final</u>  en el código generado insertando las palabras **width="nº"**  (ancho) y **height=" nº"** (largo), por ejemplo: 
-
-	=true" width="800" height="1200"></iframe>
-
- 
+## Propuesta de actividades
+1. Visita los enlaces anteriores y comprueba el funcionamiento de los documentos compartidos
+2. Crea tres breves documentos de texto con Google Docs y asigna las diferentes opciones de privacidad. Luego compártelos mediante la publicación de los enlaces en una entrada del foro para comentar el comportamiento de los mismos. 
 
 
 
