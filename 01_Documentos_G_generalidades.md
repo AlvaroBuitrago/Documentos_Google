@@ -1,8 +1,6 @@
 # Documentos colectivos con Google Docs 1
 
-![Google_docs] [1] 		
-
-[1]: Google_drive.jpg
+![Google_docs](Google_drive.jpg)
 
 ## [El entorno Google](http://es.wikipedia.org/wiki/Google_Apps)
 
@@ -56,4 +54,4 @@ Otro uso puntual pero quizás interesante es ubicar lugares en los que se hacen 
 
 #### Google Groups
 
-Hace tiempo los usé, pero de eso ya bastante. 
+Hace tiempo los usé, actualmente debería ponerme un poco al día. Pero pueden ser interesantes para compartir documentos con un grupo en vez de hacerlo con usuarios individuales. Además ofrece herramientas tipo foros. 
