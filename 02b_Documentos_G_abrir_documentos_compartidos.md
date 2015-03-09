@@ -28,10 +28,20 @@ Para ver el listado de versiones del documento tenemos que ir a **Archivo>Ver hi
 
 Si se trata de un documento importante lo mejor es compartirle con la opcion **Permitir comentarios** así el resto de personas que contribuyen solo pueden proponer cambios o criticar el documento, pero no modificarle. 
 
+## ¿Qué ocurre si dos o más usuarios editan el mismo documento a la vez?
+
+Cuando varios usuarios están viendo o editando el mismo documento Google Docs nos avisa con dos señales. En la parte superior de la pantalla vemos un cuadradito con la imágen de los otros usuarios y una raya rojo que nos avisa, y en el documento vemos un cursor rojo con la posición en la que está el cursor del otro usuario. En la captura de imagen soy yo mismo con dos cuentas en dos navegadores haciendo dos tipos de cambios. 
+
+![Aplicaciones Chrome](Abrir_Docs_05.png)
+
+El problema es que si ambos tienen opción de modificar el documento se pueden estar pisando los cambios una y otra vez. Si el documento está en opción de comentar las propuestas aparecerán como sugerencias que el propietario del documento podrá aceptar o no. Aunque luego se puede recuperar la versión en el historial, puede ser una extrategia de trabajo poco recomendable.
+
+## Modos de edición o visualización de un documento
+
 Cuando editamos un documento en Docs tenemos en la esquina superior derecha un icono que nos permite elegir el modo en el que gestionar el documento: 
 
 - **Edición** nos permite hacer cambios sin más. 
-- **Sugerencias** hace que los cambios sean solo comentarios que luego pueden aceptarse
+- **Sugerencias** hace que los cambios sean solo comentarios que luego pueden aceptarse. Recomendable para un trabajo en grupo que no provoque problemas. Así un coordinador puede finalmente aceptar o no las sugerencias sin convertirse en un continuo reparche de cambios y recambios. 
 - **Visualización** modo de solo lectura
 
 ![Modos de trabajo con docs](Abrir_Docs_03.png)
