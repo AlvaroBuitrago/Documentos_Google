@@ -24,7 +24,9 @@ Aunque no importa ni exporta en formatos .md o .tex, permite trabajar con docume
 
 Del mismo modo los documentos creados se pueden exportar y retomar en otros programas. 
 
-Cuando se intentan subir documentos .md a Google Docs este te sugiere aplicaciones en web para editarlos. Parece que existe un **Drive Notepad** que permite trabajar con formatos Markdown de manera colectiva, pero los documentos no se guardan en Google Docs, aunque probablemente si en Google Drive. 
+#### [MarkDown en Google](https://stackedit.io/editor)
+
+Cuando se intentan subir documentos .md a Google Docs este te sugiere aplicaciones en web para editarlos. Parece que existen tanto **Drive Notepad** como **StackEdit** que permiten trabajar con formatos Markdown de manera colectiva, pero los documentos no se guardan en Google Docs, aunque probablemente sí en Google Drive. 
 
 [https://drivenotepad.appspot.com/]()
 
@@ -60,6 +62,10 @@ Otro uso puntual pero quizás interesante es ubicar lugares en los que se hacen 
 
 Hace tiempo los usé, actualmente debería ponerme un poco al día. Pero pueden ser interesantes para compartir documentos con un grupo en vez de hacerlo con usuarios individuales. Además ofrece herramientas tipo foros. 
 
+#### Dibujos de Google
+
+A primera vista no parece muy útil en nuestro trabajo pero pueden servir por ejemplo para crear imágenes anotadas sobre aspectos de construcción, uso o mecánida del instrumento. 
+
 ## Propuesta de actividades
-1. Actividad 1
-2. Actividad 2
+1. Explorar los enlaces y la información sobre las aplicaciones de Google
+2. Crear, si no tienes aún, una cuenta @gmail para gestionar Google Docs y Google Drive
