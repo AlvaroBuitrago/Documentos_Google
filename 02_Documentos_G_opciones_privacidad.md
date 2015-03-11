@@ -1,4 +1,4 @@
-# Documentos de texto y hojas de cálculo en Google
+# Compartir documentos en Google Docs (Privacidad)
 
 El funcionamiento del editor de texto de Google Docs es muy parecido al de otros editores de texto WYSIWYG (Lo que ves es lo que obtienes), así que no parece necesario entrar en detalles sobre la edición en particular. En caso de dudas se pueden tratar en el foro del grupo de trabajo. 
 
