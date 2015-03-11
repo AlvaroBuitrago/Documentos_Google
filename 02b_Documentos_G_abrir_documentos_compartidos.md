@@ -1,4 +1,4 @@
-# Abrir y gestionar documentos en Google Docs
+# Abrir y gestionar documentos en Google Docs: Control de versiones
 
 Aunque la apariencia de Google Docs sea la de un editor visual, el funcionamiento en la gestión interna tiene mucho que ver con los niveles de privacidad/visualización. Así tendremos documentos asociados a nuestra cuenta que serán propios o compartidos.
 
