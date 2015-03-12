@@ -1,5 +1,13 @@
 # Abrir y gestionar documentos en Google Docs: Control de versiones
 
+* Para probar las propuestas de este apartado utilizaremos dos versiones de un documento (en este caso hoja de cálculo) la primera solo para comentar y la segunda para editar. Sobre ellas realizar algún comentario y, en su caso, cambios para visualizar el control de versiones y descargar al ordenador para abrir en algún otro programa.* 
+
+[Hoja de cálculo para comentar](https://docs.google.com/spreadsheets/d/1NCnG7AjR5SweBAFyS7bbyhPrwagMUt8YsraU2_QyWWw/edit?usp=sharing]
+
+[Hoja de cálculo para hacer alguna modificación](https://docs.google.com/spreadsheets/d/1myNrhqM5VoPAk_zzz9oLC6x6ogiG4A5NiVA3KhkwZWQ/edit?usp=sharing)
+
+En **Archivo>Ver historial de revisiones** se pueden visualizar los cambios anteriores y los que estáis haciendo actualmente en el archivo.
+
 Aunque la apariencia de Google Docs sea la de un editor visual, el funcionamiento en la gestión interna tiene mucho que ver con los niveles de privacidad/visualización. Así tendremos documentos asociados a nuestra cuenta que serán propios o compartidos.
 
 ![Panel de gestión de archivos Google](Abrir_Docs_01.png)
@@ -52,6 +60,7 @@ El formato de Docs no es directamente compatible con documentos tipo de otros ed
 
 ![Exportar archivos de Docs](Abrir_Docs_04.png)
 
+Propuesta de actividades
 
-
-
+1. Observa el comportamiento de los documentos enlazados y realiza comentarios y modificaciones. 
+2. Crea un documento sencillo, haz varias modificaciones y versiones. Restaura una versión anterior. 
