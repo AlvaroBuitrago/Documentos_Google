@@ -2,7 +2,7 @@
 
 * Para probar las propuestas de este apartado utilizaremos dos versiones de un documento (en este caso hoja de cálculo) la primera solo para comentar y la segunda para editar. Sobre ellas realizar algún comentario y, en su caso, cambios para visualizar el control de versiones y descargar al ordenador para abrir en algún otro programa.* 
 
-[Hoja de cálculo para comentar](https://docs.google.com/spreadsheets/d/1NCnG7AjR5SweBAFyS7bbyhPrwagMUt8YsraU2_QyWWw/edit?usp=sharing]
+[Hoja de cálculo para comentar](https://docs.google.com/spreadsheets/d/1NCnG7AjR5SweBAFyS7bbyhPrwagMUt8YsraU2_QyWWw/edit?usp=sharing)
 
 [Hoja de cálculo para hacer alguna modificación](https://docs.google.com/spreadsheets/d/1myNrhqM5VoPAk_zzz9oLC6x6ogiG4A5NiVA3KhkwZWQ/edit?usp=sharing)
 
