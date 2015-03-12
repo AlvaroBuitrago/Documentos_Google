@@ -60,7 +60,7 @@ El formato de Docs no es directamente compatible con documentos tipo de otros ed
 
 ![Exportar archivos de Docs](Abrir_Docs_04.png)
 
-Propuesta de actividades
+## Propuesta de actividades
 
 1. Observa el comportamiento de los documentos enlazados y realiza comentarios y modificaciones. 
 2. Crea un documento sencillo, haz varias modificaciones y versiones. Restaura una versión anterior. 
