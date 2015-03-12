@@ -6,7 +6,7 @@
 
 [Hoja de cálculo para hacer alguna modificación](https://docs.google.com/spreadsheets/d/1myNrhqM5VoPAk_zzz9oLC6x6ogiG4A5NiVA3KhkwZWQ/edit?usp=sharing)
 
-En **Archivo>Ver historial de revisiones** se pueden visualizar los cambios anteriores y los que estáis haciendo actualmente en el archivo.
+En **Archivo>Ver historial de revisiones** se pueden visualizar los cambios anteriores y los que estáis haciendo actualmente en el archivo. (observa que los cambios entre revisiones se resaltan en color según la persona que los ha hecho)
 
 Aunque la apariencia de Google Docs sea la de un editor visual, el funcionamiento en la gestión interna tiene mucho que ver con los niveles de privacidad/visualización. Así tendremos documentos asociados a nuestra cuenta que serán propios o compartidos.
 
