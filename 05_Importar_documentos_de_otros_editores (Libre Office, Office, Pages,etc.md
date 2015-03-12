@@ -6,7 +6,7 @@ En [este ejemplo](https://docs.google.com/document/d/1QFdQIjdzZMGx-ox8elSVFSSGJM
 
 Como pega, no soporta edición directa de archivos de Pages, el archivo se sube a Google Drive, pero no se puede editar en Google Docs. Así que habría que exportar primero esos documentos a .docx u otros formatos desde Pages. 
 
-Como ventaja, permite importar archivos MarkDowm y html mediante los editores Drive Notepad o Stackedit. Drive Notepad permite las mismas opciones para compartir el documento que Google Docs. Stackedit solo editar, para compartir hay que crear una cuenta de pago anual. 
+Como ventaja, permite importar archivos MarkDown y html mediante los editores Drive Notepad o Stackedit. Drive Notepad permite las mismas opciones para compartir el documento que Google Docs. Stackedit solo editar, para compartir hay que crear una cuenta de pago anual. 
 
 
 
