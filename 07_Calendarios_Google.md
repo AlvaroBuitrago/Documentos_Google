@@ -34,11 +34,11 @@ Más intuitivas son las opciones del panel **Detalles del calendario**
 
 ![Detalles del Calendario](Calendarios05.png)
 
-En el apartado **Incrustar calendario** podemos obtener el código para incrustarlo en una web o un blog. No servirá de nada si no hemos hecho público el caledario. Aquí ni siquiera quien tenga el enlace podrá ver el calendario. 
+- En el apartado **Incrustar calendario** podemos obtener el código para incrustarlo en una web o un blog. No servirá de nada si no hemos hecho público el caledario. Aquí ni siquiera quien tenga el enlace podrá ver el calendario. 
 
-En **Dirección del calendadario** podemos descargar el calendario en diferentes formatos para compartirlo con otras aplicaciones de calendario. Tampoco será útil si no es calendario compartido. 
+- En **Dirección del calendadario** podemos descargar el calendario en diferentes formatos para compartirlo con otras aplicaciones de calendario. Tampoco será útil si no es calendario compartido. 
 
-En **Dirección privada** sí podemos obtener una copia para descargar o compartir aunque no lo tengamos publicado. De nuevo manejar con cuidado si el calendario tiene información privada que no debería estar al alcance de otras personas. 
+- En **Dirección privada** sí podemos obtener una copia para descargar o compartir aunque no lo tengamos publicado. De nuevo manejar con cuidado si el calendario tiene información privada que no debería estar al alcance de otras personas. 
 
 
 ## Notificaciones del calendario
