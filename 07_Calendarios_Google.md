@@ -1,6 +1,6 @@
 # Gestión de Calendarios Google
 
-[>Calendario compartido del Grupo de trabajo](https://www.google.com/calendar/embed?src=5r7k31mfujjvk15fbmrvq0du40%40group.calendar.google.com&ctz=Europe/Madrid)
+[> Calendario compartido del Grupo de trabajo](https://www.google.com/calendar/embed?src=5r7k31mfujjvk15fbmrvq0du40%40group.calendar.google.com&ctz=Europe/Madrid)
 
 Tener un calendario común en el que añadir eventos tipo reuniones, plazos de entrega, actos, etc, es siempre importante en el trabajo en grupo. De nuevo hay muchas opciones para compartir calendarios y de nuevo Google facilita una opción gratuita y eficaz que permite un uso conjunto en cualquier sistema operativo.
 
@@ -47,5 +47,7 @@ Al igual que en otras aplicaciones de este tipo podemos gestionar qué tipo de a
 
 ![Gestionar notificaciones](Calendarios06.png)
 
+## Propuesta de actividades
 
-
+1. Explorar Google Calendars, visionar el calendario enlazado y ver las posibilidades para contribuir
+2. Crear un calendario y compartir con los miembros del grupo de trabajo para editar, modificar o añadir eventos. 
