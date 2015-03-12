@@ -1,6 +1,6 @@
 # Compartir documentos en Google Docs (Privacidad)
 
-El funcionamiento del editor de texto de Google Docs es muy parecido al de otros editores de texto WYSIWYG (Lo que ves es lo que obtienes), así que no parece necesario entrar en detalles sobre la edición en particular. En caso de dudas se pueden tratar en el foro del grupo de trabajo. 
+El funcionamiento del editor de texto de Google Docs es muy parecido al de otros editores de texto WYSIWYG (Lo que ves es lo que obtienes), así que no es necesario entrar en detalles sobre la edición en particular. En caso de dudas se pueden tratar en el foro del grupo de trabajo. 
 
 La utilidad que puede tener Google Docs para un trabajo en grupo está en las opciones para compartir y editar de manera colectiva documentos. Para ello hay que conocer la manera de modificar las opciones de visibilidad de un documento publicado mediante este entorno. 
 
@@ -40,10 +40,10 @@ Podemos acceder a estas opciones en la esquina inferior izquierda del panel ante
 
 Ejemplo de documentos con diferentes opciones de privacidad: *(Son tres copias del mismo documento con diferentes opciones de privacidad)*
 
-- **Puede ver**: Pulsado [este enlace](https://docs.google.com/document/d/1MIUg6OMBW0_SoGdxLIxrAilZdHEmfx-7XzAb2em3TX8/edit?usp=sharing)se debería poder acceder al documento en la opción *puede ver*
-- **Puede comentar**: Pulsando [este enlace](https://docs.google.com/document/d/1F1G0XiM3jxvrbuVx8a_0FPVVPRTgFFD86jmVGr9hY78/edit?usp=sharing)
-- **Puede editar**: Pulsado [este enlace](https://docs.google.com/document/d/1jNLbicT8B3_zOT0NyqK9Sgn5_SCBMNEROdpf4JH4AqU/edit?usp=sharing)
+- **Puede ver**: Pulsado [este enlace](https://docs.google.com/document/d/1M9f2SuAmST_4xUJRUo-NaYBzikd68HAgC6m5x4wB4Yo/edit?usp=sharing) se debería poder acceder al documento en la opción *puede ver*
+- **Puede comentar**: Pulsando [este enlace](https://docs.google.com/document/d/1ocpKu9VJafVU_SEL-B8mIEVe4TTikM7GgijHmx9XxoQ/edit?usp=sharing)
+- **Puede editar**: Pulsado [este enlace](https://docs.google.com/document/d/1tR8EMqeQcIscqMT994hJ1TgSLCCBXSRkrliZeJnPCUI/edit?usp=sharing)
 
 ## Propuesta de actividades
 1. Visita los enlaces anteriores y comprueba el funcionamiento de los documentos compartidos
-2. Crea tres breves documentos de texto con Google Docs y asigna las diferentes opciones de privacidad. Luego compártelos mediante la publicación de los enlaces en una entrada del foro para comentar el comportamiento de los mismos. 
+2. Crea tres breves documentos de texto con Google Docs y asigna las diferentes opciones de privacidad. Luego compárte los enlaces en una entrada del foro para comentar el comportamiento de los mismos. 
